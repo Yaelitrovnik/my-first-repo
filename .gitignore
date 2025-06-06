@@ -1,0 +1,4 @@
+*.temp
+*.log
+temp_files/
+credentials.txt
